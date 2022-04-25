@@ -9,7 +9,7 @@ This is the repository for our Machine Learning I final project.
 [Sahara Ensley](https://github.com/Saharae)
 
 ## References:  
-Data: [NHL Game Data](https://www.kaggle.com/datasets/martinellis/nhl-game-data?select=game.csv)   
+**Data:** [NHL Game Data](https://www.kaggle.com/datasets/martinellis/nhl-game-data?select=game.csv)   
 In our final report we utilized 2 functions written by our Professor, Professor Huang of George Washington University.
 His full github can be found [here](https://github.com/yuxiaohuang).
 The specific file we utilized can be found [here](https://github.
