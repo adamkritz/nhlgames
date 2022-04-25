@@ -12,8 +12,7 @@ This is the repository for our Machine Learning I final project.
 **Data:** [NHL Game Data](https://www.kaggle.com/datasets/martinellis/nhl-game-data?select=game.csv)   
 In our final report we utilized 2 functions written by our Professor, Professor Huang of George Washington University.
 His full github can be found [here](https://github.com/yuxiaohuang).
-The specific file we utilized can be found [here](https://github.
-com/yuxiaohuang/teaching/blob/master/gwu/machine_learning_I/spring_2022/code/utilities/p2_shallow_learning/pmlm_utilities_shallow.ipynb).
+The specific file we utilized can be found [here](https://github.com/yuxiaohuang/teaching/blob/master/gwu/machine_learning_I/spring_2022/code/utilities/p2_shallow_learning/pmlm_utilities_shallow.ipynb).
 
 ## TO RUN:  
 The results of our project can be found under the "Final Report" folder of this repo.
